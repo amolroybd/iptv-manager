@@ -1,1 +1,36 @@
+name: Build IPTV Playlist
 
+on:
+  push:
+    paths:
+      - "data/channels.xlsx"
+      - "scripts/build_playlist.py"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install libraries
+        run: |
+          pip install pandas openpyxl
+
+      - name: Build playlist
+        run: |
+          python scripts/build_playlist.py
+
+      - name: Commit playlist
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update playlist.m3u
