@@ -1,36 +1,12 @@
-name: Build IPTV Playlist
+- name: Commit playlist
+  run: |
+    git config user.name "github-actions[bot]"
+    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-on:
-  push:
-    paths:
-      - "data/channels.xlsx"
-      - "scripts/build_playlist.py"
+    git add output/playlist.m3u
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+    git diff --cached --quiet || git commit -m "Update playlist.m3u"
 
-    permissions:
-      contents: write
+    git pull --rebase origin main
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Install Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install libraries
-        run: |
-          pip install pandas openpyxl
-
-      - name: Build playlist
-        run: |
-          python scripts/build_playlist.py
-
-      - name: Commit playlist
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: Update playlist.m3u
+    git push
