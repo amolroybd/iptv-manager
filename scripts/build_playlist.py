@@ -27,8 +27,10 @@ df.columns = df.columns.str.strip()
 # ==========================================================
 
 if "Status" in df.columns:
-    df = df[df["Status"].astype(str).str.lower().str.strip() == "active"]
+    status = df["Status"].fillna("").astype(str).str.strip().str.lower()
 
+    # Keep rows where Status is blank OR Active
+    df = df[(status == "") | (status == "active")]
 # ==========================================================
 # Remove empty rows
 # ==========================================================
