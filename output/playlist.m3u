@@ -5,6 +5,8 @@ https://30a-tv.com/feeds/vidaa/golf.m3u8
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 group-title="sports" tvg-country="United State" tvg-language="English",AS3 Sport TV
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="sports" tvg-country="United State" tvg-language="English",ATG Live
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
 #EXTINF:-1 group-title="sports" tvg-country="Bahrain" tvg-language="English",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 group-title="sports" tvg-country="Bahrain" tvg-language="English",Bahrain Sports 2
