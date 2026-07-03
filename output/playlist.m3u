@@ -1,19 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="095. GOLDMINES" group-title="Other",095. GOLDMINES
-http://103.175.73.12:8080/live/53/master.m3u8
-#EXTINF:-1 tvg-name="096. Goldmines Movies" group-title="Other",096. Goldmines Movies
-http://103.175.73.12:8080/live/51/master.m3u8
-#EXTINF:-1 tvg-name="10 T sports" group-title="Other",10 T sports
-http://premiumtvs.space/live/jen12345/Jen54321/130714.ts
-#EXTINF:-1 tvg-name="116. Cricbuzz" group-title="Other",116. Cricbuzz
-http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
-#EXTINF:-1 tvg-name="18.& Picture" group-title="Other",18.& Picture
-https://sm-monirul.top/toffee/play/andpicture_hd.m3u8
 #EXTINF:-1 tvg-name="1TV Sport" group-title="Other",1TV Sport
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1 tvg-name="22Scope News (1080p)" group-title="Other",22Scope News (1080p)
+#EXTINF:-1 tvg-name="22Scope News" group-title="Other" tvg-resolution="1080p",22Scope News
 https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
-#EXTINF:-1 tvg-name="2TV Sport 🇳🇴" group-title="Other",2TV Sport 🇳🇴
+#EXTINF:-1 tvg-name="2TV Sport" group-title="Other",2TV Sport
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-name="30A Golf Kingdom" group-title="Other",30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
@@ -31,8 +21,6 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-name="9XM" group-title="Other",9XM
 http://103.175.73.12:8080/live/155/155_0.m3u8
-#EXTINF:-1 tvg-name="A SPORTS" group-title="Other",A SPORTS
-http://premiumtvs.space/live/jen12345/Jen54321/43444.ts
 #EXTINF:-1 tvg-name="ABP Ananda" group-title="Other",ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="ABP Ananda (1080p)" group-title="Other",ABP Ananda (1080p)
@@ -61,40 +49,18 @@ https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-name="ALMASIRA MUBASHER" group-title="Other",ALMASIRA MUBASHER
 https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
-#EXTINF:-1 tvg-name="ARENA SPORT 1 🇨🇿" group-title="Other",ARENA SPORT 1 🇨🇿
+#EXTINF:-1 tvg-name="ARENA SPORT 1" group-title="Other",ARENA SPORT 1
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
-#EXTINF:-1 tvg-name="ARENA SPORT 2 🇨🇿" group-title="Other",ARENA SPORT 2 🇨🇿
+#EXTINF:-1 tvg-name="ARENA SPORT 2" group-title="Other",ARENA SPORT 2
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
-#EXTINF:-1 tvg-name="ARG ESPN 1" group-title="Other",ARG ESPN 1
-http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327914
 #EXTINF:-1 tvg-name="ARG ESPN 2" group-title="Other",ARG ESPN 2
 http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327915
-#EXTINF:-1 tvg-name="ARG ESPN 2 HD" group-title="Other",ARG ESPN 2 HD
-http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81258.ts
-#EXTINF:-1 tvg-name="ARG ESPN 2 HD" group-title="Other",ARG ESPN 2 HD
-http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/306486.ts
-#EXTINF:-1 tvg-name="ARG ESPN 2 SD" group-title="Other",ARG ESPN 2 SD
-http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81259.ts
 #EXTINF:-1 tvg-name="ARG ESPN 3" group-title="Other",ARG ESPN 3
 http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327916
-#EXTINF:-1 tvg-name="ARG ESPN HD" group-title="Other",ARG ESPN HD
-http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81262.ts
-#EXTINF:-1 tvg-name="ARG ESPN HD" group-title="Other",ARG ESPN HD
-http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/306497.ts
 #EXTINF:-1 tvg-name="ARG ESPN PREMIUM" group-title="Other",ARG ESPN PREMIUM
 http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327917
-#EXTINF:-1 tvg-name="ARG ESPN PREMIUM OP2" group-title="Other",ARG ESPN PREMIUM OP2
+#EXTINF:-1 tvg-name="ARG ESPN PREMIUM" group-title="Other",ARG ESPN PREMIUM
 http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/377719
-#EXTINF:-1 tvg-name="ARG FOX SPORTS 2 HD" group-title="Other",ARG FOX SPORTS 2 HD
-http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/50507.ts
-#EXTINF:-1 tvg-name="ARG TNT SPORTS" group-title="Other",ARG TNT SPORTS
-http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/361001.ts
-#EXTINF:-1 tvg-name="ARG TYC SPORTS HD" group-title="Other",ARG TYC SPORTS HD
-http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81252.ts
-#EXTINF:-1 tvg-name="ARG TYC SPORTS INTERNACIONAL" group-title="Other",ARG TYC SPORTS INTERNACIONAL
-http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81538.ts
-#EXTINF:-1 tvg-name="ARG TYC SPORTS SD" group-title="Other",ARG TYC SPORTS SD
-http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81253.ts
 #EXTINF:-1 tvg-name="AS3 Sport TV" group-title="Other",AS3 Sport TV
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="ATG Live" group-title="Other",ATG Live
@@ -747,6 +713,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-gctv-sportstri
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/18000/index.m3u8
 #EXTINF:-1 tvg-name="GO 3 sport 2 hd" group-title="Other",GO 3 sport 2 hd
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/18001/index.m3u8
+#EXTINF:-1 tvg-name="GOLDMINES" group-title="Other",GOLDMINES
+http://103.175.73.12:8080/live/53/master.m3u8
 #EXTINF:-1 tvg-name="GTC News (1080p)" group-title="Other",GTC News (1080p)
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8
 #EXTINF:-1 tvg-name="Geography HD" group-title="Other",Geography HD
@@ -767,6 +735,8 @@ https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 http://38.44.109.41:8003/play/a02h/index.m3u8
 #EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Other",Goldmines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Other",Goldmines Movies
+http://103.175.73.12:8080/live/51/master.m3u8
 #EXTINF:-1 tvg-name="Golf Channel" group-title="Other",Golf Channel
 http://45.167.1.136:8000/play/a05s
 #EXTINF:-1 tvg-name="Gospel TV India (720p)" group-title="Other",Gospel TV India (720p)
