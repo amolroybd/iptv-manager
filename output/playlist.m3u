@@ -1,38 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="1TV Sport" group-title="Other",1TV Sport
-https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1 tvg-name="22Scope News" group-title="Other" tvg-resolution="1080p",22Scope News
-https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
-#EXTINF:-1 tvg-name="2TV Sport" group-title="Other",2TV Sport
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 tvg-name="30A Golf Kingdom" group-title="Other",30A Golf Kingdom
-https://30a-tv.com/feeds/vidaa/golf.m3u8
-#EXTINF:-1 tvg-name="5" group-title="Other",5
-http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-name="5 SPORT 🇮🇱" group-title="Other",5 SPORT 🇮🇱
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
-#EXTINF:-1 tvg-name="616 Sports 4K" group-title="Other",616 Sports 4K
-http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
-#EXTINF:-1 tvg-name="9X Jalwa" group-title="Other",9X Jalwa
+#EXTINF:-1 tvg-name="Aastha (720p)" group-title="Devotional" tvg-country="IND" tvg-language="Hindi",Aastha (720p)
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+#EXTINF:-1 tvg-name="Aastha Bhajan (480p)" group-title="Devotional" tvg-country="IND" tvg-language="Hindi",Aastha Bhajan (480p)
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Aastha Gujarati (480p)" group-title="Devotional" tvg-country="IND" tvg-language="Gujrati",Aastha Gujarati (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Aastha Kannada (480p)" group-title="Devotional" tvg-country="IND" tvg-language="Kannada",Aastha Kannada (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Aastha Prime 1 (720p)" group-title="Devotional" tvg-country="IND" tvg-language="Hindi",Aastha Prime 1 (720p)
+https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
+#EXTINF:-1 tvg-name="Aastha Tamil (480p)" group-title="Devotional" tvg-country="IND" tvg-language="Tamil",Aastha Tamil (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Aastha Telugu (480p)" group-title="Devotional" tvg-country="IND" tvg-language="Telegu",Aastha Telugu (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Action Hollywood" group-title="Entertainment" tvg-country="International" tvg-language="English",Action Hollywood
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="Entertainment" tvg-country="International" tvg-language="English",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="GOLDMINES" group-title="Entertainment" tvg-country="IND" tvg-language="Hindi",GOLDMINES
+http://103.175.73.12:8080/live/53/master.m3u8
+#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Entertainment" tvg-country="IND" tvg-language="Hindi",Goldmines Movies
+http://103.175.73.12:8080/live/51/master.m3u8
+#EXTINF:-1 tvg-name="9X Jalwa" group-title="Music" tvg-country="ind" tvg-language="Hindi",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-#EXTINF:-1 tvg-name="9X Jhakaas" group-title="Other",9X Jhakaas
+#EXTINF:-1 tvg-name="9X Jhakaas" group-title="Music" tvg-country="IND" tvg-language="Marathi",9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-#EXTINF:-1 tvg-name="9X Tashan" group-title="Other",9X Tashan
+#EXTINF:-1 tvg-name="9X Tashan" group-title="Music" tvg-country="IND" tvg-language="Punjabi",9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
-#EXTINF:-1 tvg-name="9XM" group-title="Other",9XM
+#EXTINF:-1 tvg-name="9XM" group-title="Music" tvg-country="IND" tvg-language="Hindi",9XM
 http://103.175.73.12:8080/live/155/155_0.m3u8
-#EXTINF:-1 tvg-name="ABP Ananda" group-title="Other",ABP Ananda
+#EXTINF:-1 tvg-name="22Scope News" group-title="News" tvg-country="ind" tvg-language="Hindi" tvg-resolution="1080p",22Scope News
+https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="ABP Ananda" group-title="News" tvg-country="IND" tvg-language="Bengali",ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-name="ABP Ananda (1080p)" group-title="Other",ABP Ananda (1080p)
+#EXTINF:-1 tvg-name="ABP Ananda (1080p)" group-title="News" tvg-country="IND" tvg-language="Bengali",ABP Ananda (1080p)
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
-#EXTINF:-1 tvg-name="ABP Asmita (1080p)" group-title="Other",ABP Asmita (1080p)
+#EXTINF:-1 tvg-name="ABP Asmita (1080p)" group-title="News" tvg-country="IND" tvg-language="Gujrati",ABP Asmita (1080p)
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
-#EXTINF:-1 tvg-name="ABP Ganga (1080p)" group-title="Other",ABP Ganga (1080p)
+#EXTINF:-1 tvg-name="ABP Ganga (1080p)" group-title="News" tvg-country="IND" tvg-language="Hindi",ABP Ganga (1080p)
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
-#EXTINF:-1 tvg-name="ABP News (1080p)" group-title="Other",ABP News (1080p)
+#EXTINF:-1 tvg-name="ABP News (1080p)" group-title="News" tvg-country="IND" tvg-language="Hindi",ABP News (1080p)
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-#EXTINF:-1 tvg-name="ACCU WEATHER" group-title="Other",ACCU WEATHER
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-name="AKD Calcutta News (1080p)" group-title="Other",AKD Calcutta News (1080p)
 https://live.legitpro.co.in/cnnnews/index.m3u8
 #EXTINF:-1 tvg-name="AL EKHBARIA" group-title="Other",AL EKHBARIA
@@ -61,38 +69,14 @@ http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327916
 http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327917
 #EXTINF:-1 tvg-name="ARG ESPN PREMIUM" group-title="Other",ARG ESPN PREMIUM
 http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/377719
-#EXTINF:-1 tvg-name="AS3 Sport TV" group-title="Other",AS3 Sport TV
-https://streamtv.as3sport.online:3394/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="ATG Live" group-title="Other",ATG Live
-https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
 #EXTINF:-1 tvg-name="ATN Bangla UK" group-title="Other",ATN Bangla UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ATN NEWS" group-title="Other",ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-name="AZTECA uno" group-title="Other",AZTECA uno
 http://45.189.62.33:8002/play/a0cc/index.m3u8
-#EXTINF:-1 tvg-name="Aastha (720p)" group-title="Other",Aastha (720p)
-https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
-#EXTINF:-1 tvg-name="Aastha Bhajan (480p)" group-title="Other",Aastha Bhajan (480p)
-https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Aastha Gujarati (480p)" group-title="Other",Aastha Gujarati (480p)
-https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Aastha Kannada (480p)" group-title="Other",Aastha Kannada (480p)
-https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Aastha Prime 1 (720p)" group-title="Other",Aastha Prime 1 (720p)
-https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
-#EXTINF:-1 tvg-name="Aastha Tamil (480p)" group-title="Other",Aastha Tamil (480p)
-https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Aastha Telugu (480p)" group-title="Other",Aastha Telugu (480p)
-https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Action Hollywood" group-title="Other",Action Hollywood
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="Other",Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="Adhyatm TV (720p)" group-title="Other",Adhyatm TV (720p)
 https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
-#EXTINF:-1 tvg-name="Africa 24 Sport" group-title="Other",Africa 24 Sport
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-name="Alwan Sport 2" group-title="Other",Alwan Sport 2
 https://stream.kurdtv.live/alwan-sport-2/index.m3u8
 #EXTINF:-1 tvg-name="Amar Bangla" group-title="Other",Amar Bangla
@@ -189,10 +173,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
 #EXTINF:-1 tvg-name="BTV 🇧🇩 Bangladesh" group-title="Other",BTV 🇧🇩 Bangladesh
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=2202800.m3u8
-#EXTINF:-1 tvg-name="Bahrain Sports 1" group-title="Other",Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Bahrain Sports 2" group-title="Other",Bahrain Sports 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Bangla TV" group-title="Other",Bangla TV
 https://sm-monirul.top/toffee/play/bangla_tv.m3u8
 #EXTINF:-1 tvg-name="Bangla Vision" group-title="Other",Bangla Vision
@@ -311,8 +291,6 @@ https://082cdda06abe450a84acd825e814a6b8.mediatailor.us-east-1.amazonaws.com/v1/
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/579823.m3u8
 #EXTINF:-1 tvg-name="CricLife-2" group-title="Other",CricLife-2
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/579821.m3u8
-#EXTINF:-1 tvg-name="Cricket Gold" group-title="Other",Cricket Gold
-https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 tvg-name="Cricket Gold" group-title="Other",Cricket Gold
 https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
 #EXTINF:-1 tvg-name="DAZN 1" group-title="Other",DAZN 1
@@ -469,8 +447,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.
 https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
 #EXTINF:-1 tvg-name="Documentary+" group-title="Other",Documentary+
 https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="DraftKings Network" group-title="Other",DraftKings Network
-https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
 #EXTINF:-1 tvg-name="Drone TV" group-title="Other",Drone TV
 https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8
 #EXTINF:-1 tvg-name="E24" group-title="Other",E24
@@ -583,10 +559,6 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="Epic TV Digital (1080p)" group-title="Other",Epic TV Digital (1080p)
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
-#EXTINF:-1 tvg-name="Equidia" group-title="Other",Equidia
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
-#EXTINF:-1 tvg-name="Esport3" group-title="Other",Esport3
-https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-name="Euro TV" group-title="Other",Euro TV
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1 (FR)" group-title="Other",Eurosport 1 (FR)
@@ -613,8 +585,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-vid
 http://66.102.126.10:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-name="FIGHT NETWORK" group-title="Other",FIGHT NETWORK
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
-#EXTINF:-1 tvg-name="FITE 24/7" group-title="Other",FITE 24/7
-https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-name="FOX 11 Green Bay WI (WLUK)" group-title="Other",FOX 11 Green Bay WI (WLUK)
 https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX NY" group-title="Other",FOX NY
@@ -684,15 +654,11 @@ http://202.70.146.135:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-name="Football World Cup 2026 4K" group-title="Other",Football World Cup 2026 4K
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 #EXTINF:-1 tvg-name="Fox Deportes" group-title="Other",Fox Deportes
-https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-name="Fox Deportes" group-title="Other",Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-name="Fox SPORTS 3" group-title="Other",Fox SPORTS 3
 http://45.5.119.43:4000/play/a024/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports - FIFA 2026" group-title="Other",Fox Sports - FIFA 2026
 http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 1" group-title="Other",Fox Sports 1
-https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 1 - FIFA 2026" group-title="Other",Fox Sports 1 - FIFA 2026
 http://41.223.30.230/FOXSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 2" group-title="Other",Fox Sports 2
@@ -713,8 +679,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-gctv-sportstri
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/18000/index.m3u8
 #EXTINF:-1 tvg-name="GO 3 sport 2 hd" group-title="Other",GO 3 sport 2 hd
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/18001/index.m3u8
-#EXTINF:-1 tvg-name="GOLDMINES" group-title="Other",GOLDMINES
-http://103.175.73.12:8080/live/53/master.m3u8
 #EXTINF:-1 tvg-name="GTC News (1080p)" group-title="Other",GTC News (1080p)
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8
 #EXTINF:-1 tvg-name="Geography HD" group-title="Other",Geography HD
@@ -735,8 +699,6 @@ https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 http://38.44.109.41:8003/play/a02h/index.m3u8
 #EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Other",Goldmines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Other",Goldmines Movies
-http://103.175.73.12:8080/live/51/master.m3u8
 #EXTINF:-1 tvg-name="Golf Channel" group-title="Other",Golf Channel
 http://45.167.1.136:8000/play/a05s
 #EXTINF:-1 tvg-name="Gospel TV India (720p)" group-title="Other",Gospel TV India (720p)
@@ -1607,8 +1569,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="Zoom (720p)" group-title="Other",Zoom (720p)
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-name="[FIFA World Cup] Uzbekistan vs Colombia HD (FAWA)" group-title="Other",[FIFA World Cup] Uzbekistan vs Colombia HD (FAWA)
-https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 4 HD" group-title="Other",beIN SPORTS 4 HD
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6125/index.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 4k" group-title="Other",beIN SPORTS 4k
@@ -1677,13 +1637,53 @@ https://tva.in.ua/live/susp-sport.m3u8
 http://premiumtvs.space/live/jen12345/Jen54321/23304.ts
 #EXTINF:-1 tvg-name="মাই টিভি" group-title="Other",মাই টিভি
 http://116.204.149.16/mytv/index.m3u8
-#EXTINF:-1 tvg-name="✔️ Bein Sports Xtra ñ *2" group-title="Other",✔️ Bein Sports Xtra ñ *2
-https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="✔️ Red Bull TV" group-title="Other",✔️ Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-name="🇦🇺 🇹🇷" group-title="Other",🇦🇺 🇹🇷
 https://live05.msdht.app/live/08552895.m3u8
 #EXTINF:-1 tvg-name="🇬🇧 REAL MADRID TV - English (Oficial)" group-title="Other",🇬🇧 REAL MADRID TV - English (Oficial)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-name="🇮🇳 UNITEB Sports 2 HD" group-title="Other",🇮🇳 UNITEB Sports 2 HD
 https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
+#EXTINF:-1 tvg-name="1TV Sport" group-title="Sports" tvg-country="GE" tvg-language="Georgian",1TV Sport
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-name="2TV Sport" group-title="Sports" tvg-country="GE" tvg-language="Georgian",2TV Sport
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-name="30A Golf Kingdom" group-title="Sports" tvg-country="USA" tvg-language="English",30A Golf Kingdom
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 tvg-name="5" group-title="Sports" tvg-country="IL" tvg-language="Hebrew",5
+http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-name="5 SPORT" group-title="Sports" tvg-country="il" tvg-language="Hebrew",5 SPORT
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
+#EXTINF:-1 tvg-name="616 Sports 4K" group-title="Sports" tvg-country="International" tvg-language="English",616 Sports 4K
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+#EXTINF:-1 tvg-name="AS3 Sport TV" group-title="Sports" tvg-country="Alb" tvg-language="Albanian",AS3 Sport TV
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="ATG Live" group-title="Sports" tvg-country="SWD" tvg-language="Swedish",ATG Live
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 tvg-name="Africa 24 Sport" group-title="Sports" tvg-country="FR" tvg-language="French",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-name="Bahrain Sports 1" group-title="Sports" tvg-country="Bahrain" tvg-language="Arabic",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Bahrain Sports 2" group-title="Sports" tvg-country="Bahrain" tvg-language="Arabic",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Cricket Gold" group-title="Sports" tvg-country="International" tvg-language="English",Cricket Gold
+https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 tvg-name="DraftKings Network" group-title="Sports" tvg-country="USA" tvg-language="English",DraftKings Network
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 tvg-name="Equidia" group-title="Sports" tvg-country="FR" tvg-language="French",Equidia
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 tvg-name="Esport3" group-title="Sports" tvg-country="ESP" tvg-language="Catalan",Esport3
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-name="FITE 24/7" group-title="Sports" tvg-country="USA" tvg-language="English",FITE 24/7
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 tvg-name="Fox Deportes" group-title="Sports" tvg-country="USA" tvg-language="spanish",Fox Deportes
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 1" group-title="Sports" tvg-country="USA" tvg-language="English",Fox Sports 1
+https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="[FIFA World Cup] Uzbekistan vs Colombia HD (FAWA)" group-title="Sports" tvg-country="International" tvg-language="spanish",[FIFA World Cup] Uzbekistan vs Colombia HD (FAWA)
+https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
+#EXTINF:-1 tvg-name="✔️ Bein Sports Xtra ñ *2" group-title="Sports" tvg-country="USA" tvg-language="spanish",✔️ Bein Sports Xtra ñ *2
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="✔️ Red Bull TV" group-title="Sports" tvg-country="International" tvg-language="English",✔️ Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-name="ACCU WEATHER" group-title="Weather" tvg-country="USA" tvg-language="English",ACCU WEATHER
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
