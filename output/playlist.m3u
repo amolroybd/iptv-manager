@@ -171,6 +171,8 @@ http://99.27.51.147:8080/BeinSport3/index.m3u8
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="Other",Bein Sports 1
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 1 Max Arabic" group-title="Other",Bein Sports 1 Max Arabic
+http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
 #EXTINF:-1 tvg-name="Bein Sports 1🎯" group-title="Other",Bein Sports 1🎯
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Extra" group-title="Other",Bein Sports Extra
@@ -1419,6 +1421,8 @@ http://147.135.114.221:8001/play/a00u/index.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-name="Willow" group-title="Other",Willow
 http://premiumtvs.space/live/jen12345/Jen54321/5040.ts
+#EXTINF:-1 tvg-name="Willow Extra Live" group-title="Other",Willow Extra Live
+http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-name="Willow SPORTS" group-title="Other",Willow SPORTS
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-name="Willow Sports (1080p)" group-title="Other",Willow Sports (1080p)
